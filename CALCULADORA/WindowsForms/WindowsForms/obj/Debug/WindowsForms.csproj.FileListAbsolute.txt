@@ -1,0 +1,20 @@
+C:\CALCULADORA\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\CALCULADORA\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+C:\CALCULADORA\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\CALCULADORA\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.AssemblyReference.cache
+C:\CALCULADORA\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\CALCULADORA\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\CALCULADORA\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\CALCULADORA\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\CALCULADORA\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+C:\CALCULADORA\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\santi\OneDrive\Escritorio\Instituto Cervantes\CALCULADORA\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\santi\OneDrive\Escritorio\Instituto Cervantes\CALCULADORA\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\santi\OneDrive\Escritorio\Instituto Cervantes\CALCULADORA\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\santi\OneDrive\Escritorio\Instituto Cervantes\CALCULADORA\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\Instituto Cervantes\CALCULADORA\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\santi\OneDrive\Escritorio\Instituto Cervantes\CALCULADORA\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\Instituto Cervantes\CALCULADORA\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Escritorio\Instituto Cervantes\CALCULADORA\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\Instituto Cervantes\CALCULADORA\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\santi\OneDrive\Escritorio\Instituto Cervantes\CALCULADORA\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
